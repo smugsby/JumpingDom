@@ -4,6 +4,7 @@
 }
 
 #game {
+    border-radius: 5px;
     width: 600px;
     height: 420px;
     border: 2px solid black;
@@ -47,6 +48,7 @@
 }
 
 button {
+    border-radius: 5px;
     margin-left: auto;
     box-shadow: 3px 3px grey;
     color: white;
